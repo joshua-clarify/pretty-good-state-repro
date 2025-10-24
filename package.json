@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pretty-good-state": "^2.0.1"
+    "pretty-good-state": "^2.1.2"
   },
   "devDependencies": {
     "vite": "^7.1.11",
